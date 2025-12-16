@@ -1,0 +1,7 @@
+{
+  "name": "RestoFinder AI",
+  "description": "Une application style Airbnb pour trouver les meilleurs restaurants autour de vous en utilisant l'IA Gemini et les données Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
